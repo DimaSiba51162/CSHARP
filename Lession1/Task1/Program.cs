@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Console.WriteLine("Yello world");
+
+
+int value = 100;
+Console.WriteLine(value);
